@@ -1,0 +1,8 @@
+Git clone (link to repository)
+cd to new folder
+Git Status (to see what files are different in your folder vs repository)
+Git add "TestFile.txt"
+or
+Git add -A (means add all files)
+Git commit -m "m = message"
+Git push/Git pull
